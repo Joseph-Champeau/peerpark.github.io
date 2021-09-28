@@ -1,3 +1,3 @@
 # PeerPark
 ### Parking made simple.
-#Joseph
+#Joseph Champeau
