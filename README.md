@@ -1,2 +1,2 @@
 # PeerPark
-### Parking made simple.
+### Parking made simple (Airbnb of parking)
