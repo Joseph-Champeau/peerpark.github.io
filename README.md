@@ -1,3 +1,2 @@
 # PeerPark
-### Parking made simple.
-#Joseph Champeau
+### Parking made simple (Airbnb of parking)
