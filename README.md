@@ -5,3 +5,4 @@
 * Joseph Champeau
 * Rami Slimane-Kadi
 * Aydin Yalcinkaya 
+* Olivia Jia
