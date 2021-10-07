@@ -16,4 +16,4 @@ Finding parking downtown can be difficult, and especially expensive. Peer Park a
 * [Joseph-Champeau](https://github.com/Joseph-Champeau) - Joseph Champeau (#)
 * [Liv-j (or Luv)](https://github.com/Liv-j) - Olivia Jia (#)
 * [RendyIrianto](https://github.com/RendyIrianto) - Rendy Irianto (#)
-* [Rxmi-sk](https://github.com/Rxmi-sk) - Rami Slimane-Kadi (#)
+* [Rxmi-sk](https://github.com/Rxmi-sk) - Rami Slimane-Kadi (300237431)
