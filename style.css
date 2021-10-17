@@ -93,3 +93,19 @@ footer {
     height: auto;
     max-height: 60px;
 }
+
+.banner {
+    height: 20vh;
+    background-image: url("images/city.png");
+    background-size: cover;
+    text-align: center;
+}
+
+.banner-title {
+    position: absolute;
+    left: 50%;
+    top: 15vh;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+}
