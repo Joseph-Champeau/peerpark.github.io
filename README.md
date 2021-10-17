@@ -17,3 +17,6 @@ Finding parking downtown can be difficult, and especially expensive. Peer Park a
 * [Liv-j (or Luv)](https://github.com/Liv-j) - Olivia Jia (300215786)
 * [RendyIrianto](https://github.com/RendyIrianto) - Rendy Irianto (300253784)
 * [Rxmi-sk](https://github.com/Rxmi-sk) - Rami Slimane-Kadi (300237431)
+
+#### Notes
+* Fix footer using https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/
