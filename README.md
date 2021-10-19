@@ -20,3 +20,10 @@ Finding parking downtown can be difficult, and especially expensive. Peer Park a
 
 #### Notes
 * Fix footer using https://www.freecodecamp.org/news/how-to-keep-your-footer-where-it-belongs-59c6aa05c59c/
+
+### Color scheme
+#676A74 - gray
+#7396AD - blue-gray
+#7ABD6C - green
+#BDF2E7 - light blue
+#4C6DBD - dark blue
