@@ -25,7 +25,9 @@ html {
 }
 
 .navbar a:hover {
-    color: white;
+    color: #7396AD;
+    text-decoration: underline;
+
 }
 
 @media screen and (max-width: 600px) {
@@ -37,7 +39,7 @@ html {
 
 .front {
     height: 100vh;
-    background-image: url("images/city.png");
+    background-image: url("images/city1.jpg");
     background-size: cover;
     text-align: center;
 }
@@ -66,7 +68,7 @@ html {
 	text-shadow:0px 1px 0px #a8a8a8;
 }
 .parking:hover {
-	background-color:#ede8ed;
+	background-color:#BDF2E7;
 }
 .parking:active {
 	position:relative;
@@ -91,12 +93,27 @@ footer {
     float: left;
     width: auto;
     height: auto;
-    max-height: 60px;
+    max-height: 25px;
+    margin-top: 11px
 }
 
-.banner {
-    height: 20vh;
-    background-image: url("images/city.png");
+.banner-price {
+    height: 25vh;
+    background-image: url("images/sky1.jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+.banner-product {
+    height: 25vh;
+    background-image: url("images/sky2.jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+.banner-about {
+    height: 25vh;
+    background-image: url("images/sky3.jpg");
     background-size: cover;
     text-align: center;
 }
@@ -104,7 +121,7 @@ footer {
 .banner-title {
     position: absolute;
     left: 50%;
-    top: 15vh;
+    top: 17vh;
     transform: translate(-50%, -50%);
     text-align: center;
     color: white;
