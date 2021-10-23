@@ -3,6 +3,7 @@
 * {
     margin: 0;
     padding: 0;
+    color: #676A74;
 }
 
 html {
@@ -75,8 +76,9 @@ html {
 	top:1px;
 }
 
-h1, h2 {
+h1 {
     text-shadow: 2px 2px 8px black;
+    color: white;
 }
 
 footer {
