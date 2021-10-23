@@ -1,0 +1,38 @@
+
+Overall Look and Feel of Peerpark
+==================================
+
+The overall look and feel should be minimalist. We will avoid 3d metal looks and add certain 
+effects/decorations to highlight certain objects.The website should be have a general 
+city feel but muted to be more calming and pleasing to the eye.
+
+Colors
+=======
+For Peerpark, the colors are those of our logo with variations to give a somewhat city feel as well as a calm and pleasing feel.
+These are our color swatches:
+
+- #676A74 -> gray 
+- #7396AD -> blue-gray 
+- #7ABD6C -> green 
+- #BDF2E7 -> light blue 
+- #4C6DBD -> dark blue
+
+*Note: We might use colors that slightly vary from our colors swatches (darker, lighter and/or more blue/green)
+
+Iconography
+===========
+We will focus on using icons that have a simple and "flat" design, which adheres to the overall look and feel.
+When selecting an icon, please select the correct icon for the job and keep the following in mind:
+
+Typography
+==========
+We will be using Manrope from Google Fonts.
+
+Links
+=====
+Links will be underlined and should change color when a user hovers over it.
+
+Buttons
+=======
+Buttons will be accompanied with a shadow and designed using the chosen colors outlined above and white
+They will have a small outline and will change their color when a user hover over them.
