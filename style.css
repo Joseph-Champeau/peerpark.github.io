@@ -98,21 +98,21 @@ footer {
 }
 
 .banner-price {
-    height: 25vh;
+    height: 30vh;
     background-image: url("images/sky1.jpg");
     background-size: cover;
     text-align: center;
 }
 
 .banner-product {
-    height: 25vh;
+    height: 30vh;
     background-image: url("images/sky2.jpg");
     background-size: cover;
     text-align: center;
 }
 
 .banner-about {
-    height: 25vh;
+    height: 30vh;
     background-image: url("images/sky3.jpg");
     background-size: cover;
     text-align: center;
@@ -121,7 +121,7 @@ footer {
 .banner-title {
     position: absolute;
     left: 50%;
-    top: 17vh;
+    top: 21vh;
     transform: translate(-50%, -50%);
     text-align: center;
     color: white;
