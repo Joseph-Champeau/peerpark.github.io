@@ -21,7 +21,7 @@ These are our color swatches:
 
 Iconography
 ===========
-We will focus on using icons that have a simple design, which adheres to the overall look and feel.
+We will focus on using icons that have a simple design, which adheres to the overall look and feel and have the same tones as our color palette.
 
 Typography
 ==========
