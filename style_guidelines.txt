@@ -8,7 +8,7 @@ city feel but muted to be more calming and pleasing to the eye.
 
 Colors
 =======
-For Peerpark, the colors are those of our logo with variations to give a somewhat city feel as well as a calm and pleasing feel.
+For Peerpark, the colors are those of our logo with variations to adhere to our look and feel.
 These are our color swatches:
 
 - #676A74 -> gray 
@@ -22,7 +22,6 @@ These are our color swatches:
 Iconography
 ===========
 We will focus on using icons that have a simple and "flat" design, which adheres to the overall look and feel.
-When selecting an icon, please select the correct icon for the job and keep the following in mind:
 
 Typography
 ==========
