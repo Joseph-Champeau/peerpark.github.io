@@ -1,3 +1,4 @@
+//parking button
 var btn = document.getElementById("findParking");
 
 function findParking() {
@@ -5,3 +6,14 @@ function findParking() {
     alert("Sorry, we do not have any parking in " + location + ". Please check back later!")
 }
 
+//rent button
+var rent = document.getElementById("rent-p")
+
+function Rent() {
+    
+}
+
+//sevrice button
+
+
+//membership button
