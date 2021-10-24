@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700&display=swap');
 
+/*General*/
 * {
     margin: 0;
     padding: 0;
@@ -10,6 +11,28 @@ html {
     font-family: 'Manrope', sans-serif;
 }
 
+h1 {
+    text-shadow: 2px 2px 8px black;
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+footer {
+    padding: 10px;
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #f7f7f7;
+}
+/*General end*/
+
+
+/*Navagation bar*/
 .navbar {
     margin:0;
     padding:20px;
@@ -31,13 +54,57 @@ html {
 
 }
 
+.logo-navbar {
+    float: left;
+    width: auto;
+    height: auto;
+    max-height: 25px;
+    margin-top: 11px
+}
+
 @media screen and (max-width: 600px) {
     .navbar a, .navbar {
       display: none;
     }
   
-  }
+}
+/*Navagation bar end*/
 
+/*Banner*/
+.banner-price {
+    height: 30vh;
+    background-image: url("images/sky1.jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+.banner-product {
+    height: 30vh;
+    background-image: url("images/sky2.jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+.banner-about {
+    height: 30vh;
+    background-image: url("images/sky3.jpg");
+    background-size: cover;
+    text-align: center;
+}
+
+.banner-title {
+    position: absolute;
+    left: 50%;
+    top: 21vh;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+/*Banner end*/
+
+
+/*index*/
 .front {
     height: 100vh;
     background-image: url("images/city1.jpg");
@@ -75,56 +142,119 @@ html {
 	position:relative;
 	top:1px;
 }
+/*index end*/
 
-h1 {
-    text-shadow: 2px 2px 8px black;
-    color: white;
-}
 
-footer {
-    padding: 10px;
-    position: fixed;
-    left: 0;
-    bottom: 0;
-    width: 100%;
-    text-align: center;
-    background-color: #f7f7f7;
-}
-
-.logo-navbar {
+/*price*/
+.rentfee {
+    margin-left: 5%;
+    margin-top: 50px;
     float: left;
-    width: auto;
-    height: auto;
-    max-height: 25px;
-    margin-top: 11px
 }
 
-.banner-price {
-    height: 30vh;
-    background-image: url("images/sky1.jpg");
-    background-size: cover;
+.rentfee h2 {
+	background-color:#4C6DBD;
+	border-radius:25px;
+	border:3px solid #304a86;
+    color: #252829;
+	font-weight: 300;
+	padding:15px 65px;
+	box-shadow:5px 5px 3px #424547;
+    width: 120px;
     text-align: center;
 }
 
-.banner-product {
-    height: 30vh;
-    background-image: url("images/sky2.jpg");
-    background-size: cover;
+.rentfee p {
+    background-color:#6288e0a2;
+	border-radius:5px;
+    color: #4f525c;
+	padding:15px 30px;
+    width: 165px;
+    margin-left: 6.5%;
+    display: block;
+    font-size: 17px;
+}
+
+.rentfee h2:hover {
+    background-color: #7697e6;
+    border: 3px solid #4C6DBD;
+}
+
+
+.servicefee {
+    margin-left: 10.75%;
+    float: left;
+    margin-top: 50px;
+}
+
+.servicefee h2 {
+	background-color:#84e6d2;
+	border-radius:25px;
+	border:3px solid #5ebba8;
+    color: #252829;
+	font-weight: 300;
+	padding:15px 65px;
+	box-shadow:5px 5px 3px #424547;
+    width: 120px;
     text-align: center;
 }
 
-.banner-about {
-    height: 30vh;
-    background-image: url("images/sky3.jpg");
-    background-size: cover;
+.servicefee p {
+    background-color:#bdf2e7cb;
+	border-radius:5px;
+    color: #4f525c;
+	padding:15px 30px;
+    width: 163px;
+    margin-left: 7.25%;
+    display: block;
+    font-size: 17px;
+}
+
+.servicefee h2:hover {
+    background-color: #ace7db;
+    border: 3px solid #84e6d2;
+}
+
+
+.membership {
+    margin-left: 10.5%;
+    margin-top: 50px;
+    float: left;
+}
+
+.membership h2 {
+	background-color:#7ABD6C;
+	border-radius:25px;
+	border:3px solid #4a8b3d;
+    color: #252829;
+	font-weight: 300;
+	padding:15px 65px;
+	box-shadow:5px 5px 3px #424547;
+    width: 120px;
     text-align: center;
 }
 
-.banner-title {
-    position: absolute;
-    left: 50%;
-    top: 21vh;
-    transform: translate(-50%, -50%);
-    text-align: center;
-    color: white;
+.memb-p {
+    background-color:#abd1a4dc;
+	border-radius:5px;
+    color: #4f525c;
+	padding:15px 30px;
+    width: 163px;
+    margin-left: 7.25%;
+    display: block;
+    font-size: 17px;
 }
+
+.membership li{
+    font-size: 14px;
+    margin-left: 26px;
+    line-height: 1;
+}
+
+
+
+.membership h2:hover {
+    background-color: #afe6a4;
+    border: 3px solid #7ABD6C;
+}
+/*price end*/
