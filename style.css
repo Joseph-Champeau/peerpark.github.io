@@ -167,14 +167,14 @@ footer {
     text-align: center;
 }
 
-.rentfee p {
+.rent-p {
     background-color:#6288e0a2;
 	border-radius:5px;
     color: #4f525c;
 	padding:15px 30px;
     width: 165px;
     margin-left: 6.5%;
-    display: block;
+    display: none;
     font-size: 17px;
 }
 
@@ -259,6 +259,10 @@ footer {
 .membership h2:hover {
     background-color: #afe6a4;
     border: 3px solid #7ABD6C;
+}
+
+.show {
+    display: block;
 }
 /*price end*/
 

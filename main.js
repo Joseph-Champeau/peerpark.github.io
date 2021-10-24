@@ -7,11 +7,12 @@ function findParking() {
 }
 
 //rent button
-var rent = document.getElementById("rent-p")
+document.getElementById("rent-h").onclick = function() {Rent()};
 
 function Rent() {
-    
+  document.getElementById("rent-p").classList.toggle("show");
 }
+
 
 //sevrice button
 
