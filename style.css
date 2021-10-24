@@ -20,7 +20,10 @@ h2{
     color: white;
 }
 
+
+
 footer {
+    margin-top: 10px;
     padding: 10px;
     position: fixed;
     left: 0;
@@ -258,3 +261,7 @@ footer {
     border: 3px solid #7ABD6C;
 }
 /*price end*/
+
+.body {
+    margin: 0vh 15vh 0vh 15vh;
+}
