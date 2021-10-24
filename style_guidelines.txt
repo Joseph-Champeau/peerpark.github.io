@@ -1,15 +1,13 @@
-
 Overall Look and Feel of Peerpark
 ==================================
 
-The overall look and feel should be minimalist. We will avoid 3d metal looks and add certain 
-effects/decorations to highlight certain objects.The website should be have a general 
-city feel but muted to be more calming and pleasing to the eye.
+The overall look and feel should be minimalist. We will avoid 3D metal looks and add certain effects/decorations to highlight certain objects.
+The website should be have a general city feel but muted to be more calming and pleasing to the eye.
 
-Colors
+Colours
 =======
-For Peerpark, the colors are those of our logo with variations to adhere to our look and feel.
-These are our color swatches:
+For Peerpark, the colours are those of our logo with variations to adhere to our look and feel.
+These are our colour swatches:
 
 - #676A74 -> gray 
 - #7396AD -> blue-gray 
@@ -17,21 +15,27 @@ These are our color swatches:
 - #BDF2E7 -> light blue 
 - #4C6DBD -> dark blue
 
-*Note: We might use colors that slightly vary from our colors swatches (darker, lighter and/or more blue/green)
+The colour theme attempts to imitate the feeling of a New York City street.
+The dark tones represent the asphalt and concrete jungle, and the blues and greens represent their signature street signs.
+
+* Note: We might use colours that slightly vary from our colours swatches (darker, lighter and/or more blue/green)
 
 Iconography
 ===========
-We will focus on using icons that have a simple design, which adheres to the overall look and feel and have the same tones as our color palette.
+We will focus on using icons that have a simple design, which adheres to the overall look and feel and have the same tones as our colour palette.
+Icons are provided by Font Awesome (https://fontawesome.com)
 
 Typography
 ==========
 We will be using Manrope from Google Fonts.
+Manrope was chosen because it is open-sourced, meaning it we do not have to pay to use it on the website.
+It is also a modern-style font, which helps demonstrate that we are a hip and modern company.
 
 Links
 =====
-Links will be underlined and should change color when a user hovers over it.
+Links will be underlined and should change colour when a user hovers over it.
 
 Buttons
 =======
-Buttons will be accompanied with a shadow and designed using the chosen colors outlined above and white
-They will have a small outline and will change their color when a user hover over them.
+Buttons will be accompanied with a shadow and designed using the chosen colours outlined above and white
+They will have a small outline and will change their colour when a user hover over them.
