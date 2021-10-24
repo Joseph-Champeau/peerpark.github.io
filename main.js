@@ -7,15 +7,15 @@ function findParking() {
 }
 
 //rent button
-
 function Rent() {
   document.getElementById("rent-p").classList.toggle("show");
 }
 
+//service button
 function Service() {
   document.getElementById("serv-p").classList.toggle("show");
 }
-
+//membership button
 function Membership() {
   document.getElementById("memb-p").classList.toggle("show");
 }

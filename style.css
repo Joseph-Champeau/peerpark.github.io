@@ -202,14 +202,14 @@ footer {
     text-align: center;
 }
 
-.servicefee p {
+.serv-p {
     background-color:#bdf2e7cb;
 	border-radius:5px;
     color: #4f525c;
 	padding:15px 30px;
     width: 163px;
     margin-left: 7.25%;
-    display: block;
+    display: none;
     font-size: 17px;
 }
 
@@ -244,7 +244,7 @@ footer {
 	padding:15px 30px;
     width: 163px;
     margin-left: 7.25%;
-    display: block;
+    display: none;
     font-size: 17px;
 }
 
