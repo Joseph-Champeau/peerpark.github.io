@@ -269,3 +269,8 @@ footer {
 .body {
     margin: 0vh 15vh 0vh 15vh;
 }
+
+#MapExample {
+	max-width: 100%;
+	max-height: auto;
+	
