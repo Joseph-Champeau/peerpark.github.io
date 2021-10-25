@@ -5,10 +5,33 @@
     float: left;
 }
 
+.app h3 {
+    background-color:#4C6DBD;
+	border-radius:25px;
+	border:3px solid black;
+    color: #252829;
+	font-weight: 300;
+	padding:15px 65px;
+    box-shadow:4px 4px 3px #424547;
+    width: 120px;
+    text-align: center;
+}
 .rent {
     margin-left: 5%;
     margin-top: 70px;
     float: left;
+}
+
+.rent h3{
+    background-color:#7ABD6C;
+	border-radius:25px;
+	border:3px solid black;
+    color: #252829;
+	font-weight: 300;
+	padding:15px 65px;
+	box-shadow:4px 4px 3px #424547;
+    width: 200px;
+    text-align: center;
 }
 
 .ad {
@@ -16,6 +39,18 @@
     margin-top: 70px;
     margin-bottom: 100px;
     float: left;
+}
+
+.ad h3{
+    background-color:#BDF2E7;
+	border-radius:25px;
+	border:3px solid black;
+    color: #252829;
+	font-weight: 300;
+	padding:15px 65px;
+	box-shadow:4px 4px 3px #424547;
+    width: 150px;
+    text-align: center;
 }
 
 /*product end*/
