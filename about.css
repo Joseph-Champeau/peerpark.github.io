@@ -2,6 +2,10 @@
     text-align: right;
 }
 
+.left {
+    text-align: left;
+}
+
 .body {
     margin: 0vh 25vh 0vh 25vh;
 }
