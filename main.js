@@ -3,6 +3,9 @@ var btn = document.getElementById("findParking");
 
 function findParking() {
     let location = prompt("Where would you like to find parking?");
+    if (location.toLowerCase() == "ottawa") {
+        window.location.href="map.html";
+    }
     alert("Sorry, we do not have any parking in " + location + ". Please check back later!")
 }
 
