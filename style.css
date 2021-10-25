@@ -11,6 +11,10 @@ html {
     font-family: 'Manrope', sans-serif;
 }
 
+.body {
+    margin: 0vh 15vh 0vh 15vh;
+}
+
 h1 {
     text-shadow: 2px 2px 8px black;
     color: white;
@@ -266,10 +270,7 @@ footer {
 }
 /*price end*/
 
-.body {
-    margin: 0vh 15vh 0vh 15vh;
-}
-
+/*image*/
 #MapExample {
 	max-width: 100%;
 	max-height: auto;
