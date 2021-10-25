@@ -1,5 +1,70 @@
-/*product*/
+
 .app {
+    margin-left: 5%;
+    margin-top: 70px;
+    float: left;
+    font-size: 18px;
+    font-weight: 410;
+}
+
+.app h3 {
+    color: #2c4c97;
+	font-weight: 700;
+    font-size:28px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.rent {
+    margin-left: 5%;
+    margin-top: 70px;
+    float: left;
+    font-size: 18px;
+    font-weight: 410;
+}
+
+.rent h3{
+    margin-left: 9%;
+    color: #2c4c97;
+	font-weight: 700;
+    font-size:28px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.ad {
+    margin-left: 5%;
+    margin-top: 70px;
+    margin-bottom: 100px;
+    float: left;
+    font-size: 18px;
+    font-weight: 410;
+}
+
+.ad h3{
+    color: #2c4c97;
+	font-weight: 700;
+    font-size:28px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h3{
+    margin-bottom: 20px;
+}
+
+li{
+    margin-left: 7%;
+    font-size: 16px;
+    font-weight: normal;
+}
+
+.p-rent{
+    margin-left: 5.25%;
+    font-size: 17px;
+}
+/*product*/
+/*.app {
     margin-left: 5%;
     margin-top: 70px;
     float: left;
@@ -56,5 +121,5 @@
 
 h3{
     margin-bottom: 20px;
-}
+}*/
 /*product end*/
