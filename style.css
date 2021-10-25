@@ -274,3 +274,10 @@ footer {
 	max-width: 100%;
 	max-height: auto;
 }
+
+.banner-demo {
+    height: 30vh;
+    background-image: url("images/city2.jpg");
+    background-size: cover;
+    text-align: center;
+}
