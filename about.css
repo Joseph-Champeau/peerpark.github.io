@@ -1,17 +1,13 @@
-.right {
-    text-align: right;
-}
-
-.left {
-    text-align: left;
-}
-
 .body {
     margin: 0vh 25vh 0vh 25vh;
 }
 
 h2 {
-    color: #676A74;
+    color: #4C6DBD;
     text-align: center;
     margin-bottom: 20px;
+}
+
+h4 {
+    color: #7ABD6C
 }
