@@ -1,5 +1,5 @@
 /*product*/
-.app {
+/*.app {
     margin-left: 5%;
     margin-top: 70px;
     float: left;
@@ -53,8 +53,23 @@
     width: 150px;
     text-align: center;
 }
-
+*/
 h3{
     margin-bottom: 20px;
 }
 /*product end*/
+
+h2 {
+    color: #4C6DBD;
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.body {
+    margin: 0 25vh 100px 25vh;
+    font-size: medium;
+}
+
+ol, ul {
+    margin: 0 5vh 0 5vh
+}
