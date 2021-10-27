@@ -23,7 +23,8 @@ The dark tones represent the asphalt and concrete jungle, and the blues and gree
 Iconography
 ===========
 We will focus on using icons that have a simple design, which adheres to the overall look and feel and have the same tones as our colour palette.
-Icons are provided by Font Awesome (https://fontawesome.com)
+
+*Note: some icons are provided by Font Awesome (https://fontawesome.com)
 
 Typography
 ==========
