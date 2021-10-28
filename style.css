@@ -69,12 +69,6 @@ footer {
     margin-top: 11px
 }
 
-@media screen and (max-width: 600px) {
-    .navbar a, .navbar {
-      display: none;
-    }
-  
-}
 /*Navagation bar end*/
 
 /*Banner*/
